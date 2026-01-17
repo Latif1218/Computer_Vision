@@ -100,4 +100,8 @@ Feel free to fork this repository, make improvements, and submit a pull request.
 Thank you for checking out this repository.
 Happy Coding! 🚀
 
+```bash
+https://github.com/Latif1218/All_ML_Algo_and_Prediction_Score.git
+```
+
 ```
